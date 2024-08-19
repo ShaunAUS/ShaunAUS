@@ -36,4 +36,11 @@
 </div>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaunAUS&show_icons=true&theme=radical)
+
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 
