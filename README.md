@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Shaun&fontSize=90" />
+  
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+코딩도+맛있게+백엔드개발자+김민재+입니다;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=호주쉐프에서+백엔드+개발자로;)](https://git.io/typing-svg)
 
   <div style="text-align: center;">
     <h2>Back</h2>
